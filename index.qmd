@@ -1,7 +1,28 @@
 ---
-title: "johnkonicki.github.io"
+title: ""
 ---
 
-This is a Quarto website.
+::: {.home-layout}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.home-sidebar}
+
+![](images/headshot.jpg){.profile-image}
+
+::: {.sidebar-links}
+
+[Contact me](mailto:john_konicki@berkeley.edu)
+
+:::
+
+:::
+
+::: {.home-content}
+
+# John Konicki
+
+Welcome! I am a Ph.D. candidate in the Travers Department of Political Science at the University of California, Berkeley, where I study American political behavior and public opinion.
+
+My research investigates the sources of mass polarization in the United States, with a particular focus on the contributions of demographic and attitudinal sorting to rising partisan animus, the degree of long-term stability and change in party identification, and the role of ideological grievances in shaping political identities. In addition, I work as a data analyst at the [Berkeley IGS Poll](https://igs.berkeley.edu/research/berkeley-igs-poll).
+:::
+
+:::

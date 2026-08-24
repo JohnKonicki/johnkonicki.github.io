@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "johnkonicki.github.io",
+    "title": "John Konicki",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Contact me\n\n\n\nJohn Konicki\nPh.D. Candidate in Political Science\nUniversity of California, Berkeley\nWelcome! I am a Ph.D. candidate in the Travers Department of Political Science at the University of California, Berkeley, where I study American political behavior and public opinion.\nMy research investigates the sources of mass polarization in the United States, with a particular focus on the contributions of demographic and attitudinal sorting to rising partisan animus, the degree of long-term stability and change in party identification, and the role of ideological grievances in shaping political identities. In addition, I work as a data analyst at the Berkeley IGS Poll."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,33 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "John Konicki",
+    "section": "",
+    "text": "Conditionally accepted, American Journal of Political Science\nScholars express alarm at rising affective polarization. Many blame rising demographic sorting, arguing voters’ social characteristics (“who we are”) have increasingly aligned with their party. Others point to partisan divides around ideology, policy preferences, and group sentiments (“what we think”). Unfortunately, past research lacks comparable over-time metrics of demographic and attitudinal sorting—and often conflates the two. Using measures that are comparable across time and domains, I find that demographic sorting has not meaningfully increased, nor has its relationship with polarization strengthened. Even with generous causal assumptions, demographic sorting can only explain about 2.2% of the rise in affective polarization. By contrast, attitudinal sorting has increased substantially and can account for a substantial share of polarization’s rise, with panel and meta-analyses suggesting that attitudes fuel polarization while polarization, in turn, reshapes attitudes. Thus, the rise of affective polarization is bound up in what we think, not who we are."
+  },
+  {
+    "objectID": "research.html#peer-reviewed-work",
+    "href": "research.html#peer-reviewed-work",
+    "title": "John Konicki",
+    "section": "",
+    "text": "Conditionally accepted, American Journal of Political Science\nScholars express alarm at rising affective polarization. Many blame rising demographic sorting, arguing voters’ social characteristics (“who we are”) have increasingly aligned with their party. Others point to partisan divides around ideology, policy preferences, and group sentiments (“what we think”). Unfortunately, past research lacks comparable over-time metrics of demographic and attitudinal sorting—and often conflates the two. Using measures that are comparable across time and domains, I find that demographic sorting has not meaningfully increased, nor has its relationship with polarization strengthened. Even with generous causal assumptions, demographic sorting can only explain about 2.2% of the rise in affective polarization. By contrast, attitudinal sorting has increased substantially and can account for a substantial share of polarization’s rise, with panel and meta-analyses suggesting that attitudes fuel polarization while polarization, in turn, reshapes attitudes. Thus, the rise of affective polarization is bound up in what we think, not who we are."
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "John Konicki",
+    "section": "Work in Progress",
+    "text": "Work in Progress\n\nThe Unmoved Mover? A Reassessment of Party ID’s Long-Term Durability\nHow fixed is party identification once voters leave young adulthood? I introduce Monitoring the Future’s long-running cohort panels to the study of partisanship, allowing me to follow respondents every two years through age 30 and every five years thereafter through age 60. I distinguish short-term fluctuations from durable changes in party identification and find that the conventional account of partisanship as largely crystallized after young adulthood is overstated: durable change continues well into adulthood, albeit at a slower rate. I also examine how political attitudes and evaluations contribute to these shifts.\n\n\nIdeological Resentment: How Substantive Grievances Fuel Negative Political Identities\nThis project develops a theory and measure of ideological resentment: the belief that one’s political opponents possess dominant cultural power and a resulting sense of political marginalization. I argue that this grievance captures an important dimension of contemporary conservative political identity that is not reducible to either operational ideology or partisan social identity. Using an original scale, I show that ideological resentment predicts affective polarization even after accounting for both. I am developing this project into a broader investigation of the competing grievances underlying contemporary partisan conflict.\n\n\nThe Political Evolution of Business Elites: Longitudinal Evidence from the Technology Industry\nManuscript under review With Olivier Bergeron-Boutin, Christian Caballero, Pia Deshpande, Greg Ferenstein, Amir Goldberg, and Neil Malhotra\nWealthy industries—and the individuals that control them—exert disproportionate influence over policymaking. However, systematic, industry-specific data on how economic elites change their political views over time remains scarce. This paper investigates the political preferences of U.S. technology entrepreneurs, a powerful interest group that many claim shifted right, contributed to President Trump’s 2024 victory, and held sway over the Administration’s policymaking. Theories of political behavior—self-interest, partisan sorting, and the stability of core beliefs—offer competing expectations regarding how tech elites’ views may have changed. To investigate this question, we conduct a novel survey of venture-backed founders, combining a fresh cross-section with reinterviews of entrepreneurs originally contacted in 2017. Our data suggests a more complex answer than a uniform rightward shift: Technology elites have moved modestly to the right on variables such as party identification and support for redistribution. However, they have moved leftward on regulation, and in other domains, their preferences have remained stable. These findings suggest that the political alignment of economic elites cannot be inferred from material interests alone; it is instead produced through the interaction of material interests, social values, partisan identities, and industry-specific political cultures.\n\n\nHave Americans Polarized, or Just Sorted? Using Prediction Models to Revisit an Old Debate\nHave Americans actually become more ideologically extreme, or have ideologically consistent voters simply sorted into increasingly homogeneous parties? I develop a predictive-model approach that establishes a common benchmark for the growth of partisan policy divisions over time. By applying contemporary observations to models trained on earlier electorates, I distinguish increasing partisan sorting from changes in the underlying distribution of political attitudes."
+  },
+  {
+    "objectID": "research.html#additional-research",
+    "href": "research.html#additional-research",
+    "title": "Research",
+    "section": "Additional Research",
+    "text": "Additional Research\n\nHave Americans Polarized, or Just Sorted? Using Prediction Models to Revisit an Old Debate\nHave Americans actually become more ideologically extreme, or have ideologically consistent voters simply sorted into increasingly homogeneous parties? I develop a predictive-model approach that establishes a common benchmark for the growth of partisan policy divisions over time. By applying contemporary observations to models trained on earlier electorates, I distinguish increasing partisan sorting from changes in the underlying distribution of political attitudes.\nPaper\n\n\nThe Political Evolution of Business Elites: Longitudinal Evidence from the Technology Industry\nWith Olivier Bergeron-Boutin, Christian Caballero, Pia Deshpande, Greg Ferenstein, Amir Goldberg, and Neil Malhotra\nUnder review\nWe revisit prior research on the political attitudes of technology entrepreneurs using a new cross-sectional sample and follow-up surveys of original respondents. We find modest rightward shifts across most policy domains but a leftward shift on regulation, alongside increasing alignment between entrepreneurs’ policy preferences and their partisan affiliations. The results are more consistent with partisan sorting among economic elites than with a simple economic self-interest account."
   }
 ]
