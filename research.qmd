@@ -7,7 +7,7 @@
 
 Scholars express alarm at rising affective polarization. Many blame rising demographic sorting, arguing voters’ social characteristics (“who we are”) have increasingly aligned with their party. Others point to partisan divides around ideology, policy preferences, and group sentiments (“what we think”). Unfortunately, past research lacks comparable over-time metrics of demographic and attitudinal sorting—and often conflates the two. Using measures that are comparable across time and domains, I find that demographic sorting has not meaningfully increased, nor has its relationship with polarization strengthened. Even with generous causal assumptions, demographic sorting can only explain about 2.2% of the rise in affective polarization. By contrast, attitudinal sorting has increased substantially and can account for a substantial share of polarization’s rise, with panel and meta-analyses suggesting that attitudes fuel polarization while polarization, in turn, reshapes attitudes. Thus, the rise of affective polarization is bound up in what we think, not who we are.
 
-[PDF](files/Konicki_RiseAffectivePolarization_Aug2026.pdf)
+[PDF](files/Konicki_RiseAffectivePolarization_Oct2026.pdf)
 
 ## Work in Progress
 
